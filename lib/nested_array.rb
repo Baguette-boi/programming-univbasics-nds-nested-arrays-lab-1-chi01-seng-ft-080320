@@ -22,6 +22,7 @@ def assembled_matrix
     ["Grapefruit","Pineapple", "Oranges", "Watermelon","Eggplant"],
   ["Strawberries", "Potatoes","Grapes", "Avocadoes","Asparagus"]
   ]
+end
 
 def sorted_matrix
 return [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE].sort
